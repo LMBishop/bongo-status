@@ -1,0 +1,4 @@
+<?php
+
+$superSecretToken = "abcd";
+

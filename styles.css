@@ -1,0 +1,50 @@
+html, body {
+    font-family: sans-serif;
+
+}
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border: black 1px solid;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+a {
+    color: #0000EE;
+}
+
+a :visited{
+    color: #0000EE;
+}
+
+.status-banner {
+    background-color: #f2f2f2;
+    padding: 0 5px;
+    border: 1px solid #e7e7e7; 
+}
+
+.status-banner.good {
+    background-color: #aaffaa;
+    border: 1px solid #90ee90;
+}
+
+.status-banner.bad {
+    background-color: #ffcccb;
+    border: 1px solid #ff6666;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.control-list a {
+    text-decoration: none;
+}
