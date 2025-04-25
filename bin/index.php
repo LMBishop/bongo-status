@@ -11,8 +11,7 @@
     <div class="container">
         <h1>Welcome to bongo</h1>
         <ul>
-            <li>Jellyfin (:8096) <a href="http://bongo.local:8096">[local]</a> <a href="http://bongo.int.leonardobishop.com:8096">[int.leonardobishop.com]</a></li>
-            <li>Jellyfin (https) (broken)</li>
+            <li>Jellyfin <a href="http://bongo.local:8096">[local]</a> <a href="https://media.int.leonardobishop.com">[int.leonardobishop.com]</a></li>
             <li>Nextcloud <a href="https://cloud.int.leonardobishop.com">[int.leonardobishop.com]</a></li>
             <li>Vaultwarden <a href="https://vault.int.leonardobishop.com">[int.leonardobishop.com]</a></li>
         </ul>
